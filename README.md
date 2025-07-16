@@ -103,7 +103,7 @@ To run the application with sample data, ensure the sample data is saved in a JS
                 v
 ┌─────────────────────────────────┐
 │                                 │
-│    Credit Assessment API       │
+│    Credit Assessment API        │
 │                                 │
 └───────────────┬─────────────────┘
                 │

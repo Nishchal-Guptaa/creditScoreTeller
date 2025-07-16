@@ -52,6 +52,19 @@ The risk distribution shows the percentage of wallets in each risk category:
 - A significant portion of wallets (over 52%) are classified as "Poor," indicating a potential risk for lenders or DeFi platforms.
 - The "Very Poor" category is minimal, suggesting that while there are some wallets with extremely low scores, they are not common.
 
+# Analysis of DeFi Credit Score Results
+
+## Credit Score Distribution Analysis
+
+The following graph illustrates the distribution of credit scores across defined ranges:
+
+![Credit Score Distribution Analysis](https://drive.google.com/file/d/1DMKO7DcIvCfWNHCo7wOmXIt8eDhdylVB/view?usp=sharing)
+![Credit Score Analysis](https://drive.google.com/file/d/1k7mJwfIOutCPJ7OC6nj8Nc7OD_lSzdUe/view?usp=sharing)
+
+### Observations
+- The majority of wallets fall within the 400-600 range, indicating a significant number of users with average credit scores.
+- Very few wallets achieve scores above 800, suggesting a potential area for improvement in user engagement and transaction activity.
+
 ## Recommendations
 1. **Targeted Interventions**: DeFi platforms could consider targeted educational resources or incentives for wallets in the "Poor" category to improve their creditworthiness.
 2. **Feature Enhancements**: Further analysis of transaction patterns and behaviors could help refine the scoring model, potentially incorporating additional features such as transaction types or historical performance.

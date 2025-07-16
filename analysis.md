@@ -58,7 +58,7 @@ The risk distribution shows the percentage of wallets in each risk category:
 
 The following graph illustrates the distribution of credit scores across defined ranges:
 
-![Credit Score Distribution Analysis](https://drive.google.com/file/d/1DMKO7DcIvCfWNHCo7wOmXIt8eDhdylVB/view)
+![Credit Score Distribution Analysis](https://drive.google.com/file/d/1DMKO7DcIvCfWNHCo7wOmXIt8eDhdylVB/)
 ![Credit Score Analysis](https://drive.google.com/file/d/1k7mJwfIOutCPJ7OC6nj8Nc7OD_lSzdUe/view)
 
 ### Observations

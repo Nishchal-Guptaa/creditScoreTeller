@@ -58,8 +58,9 @@ The risk distribution shows the percentage of wallets in each risk category:
 
 The following graph illustrates the distribution of credit scores across defined ranges:
 
-![Credit Score Distribution Analysis](<img src="https://drive.google.com/file/d/1DMKO7DcIvCfWNHCo7wOmXIt8eDhdylVB/view](https://drive.google.com/file/d/1k7mJwfIOutCPJ7OC6nj8Nc7OD_lSzdUe/view?usp=drive_link">)
-![Credit Score Analysis](https://drive.google.com/file/d/1k7mJwfIOutCPJ7OC6nj8Nc7OD_lSzdUe/view)
+<img width="1919" height="974" alt="Screenshot 2025-07-16 173857" src="https://github.com/user-attachments/assets/63068461-ce40-4f8c-98d9-1cdf8be9a7a7" />
+<img width="1919" height="961" alt="Screenshot 2025-07-16 174459" src="https://github.com/user-attachments/assets/05b7ee87-bf1a-45a9-96d4-4af22463f159" />
+
 
 ### Observations
 - The majority of wallets fall within the 400-600 range, indicating a significant number of users with average credit scores.

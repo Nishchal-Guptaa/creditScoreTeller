@@ -73,8 +73,8 @@ To run the application with sample data, ensure the sample data is saved in a JS
                 v
 ┌─────────────────────────────────┐
 │                                 │
-│        Data Collection          │  <─── Blockchain Nodes
-│      (Transaction History)      │       DeFi Subgraphs
+│        Data Collection          │
+│      (Transaction History)      │       
 │                                 │
 └───────────────┬─────────────────┘
                 │

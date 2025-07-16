@@ -352,4 +352,4 @@ if __name__ == "__main__":
         json.dump(sample_data, f, indent=2)
     
     print("🚀 Running with actual data...")
-    report = main(r'C:\Users\nishc\Desktop\Projects\Python\file\assignment-4\user-wallet-transactions.json\user-wallet-transactions.json')
+    report = main('path/to/your/transactions.json')
